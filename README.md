@@ -2,7 +2,6 @@
 My name is Christine Au-yeung and I'm a 4th year Computer Science student with an Economics minor at Wilfrid Laurier University.
 
 ## Technology and Tools
----
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6373B5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6373B5)
@@ -26,7 +25,6 @@ My name is Christine Au-yeung and I'm a 4th year Computer Science student with a
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=DBEBC0)
 
 ## I'm Currently Working On
----
 <a href="https://github.com/ChristineAu-yeung/Plants">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineAu-yeung&repo=Plants&theme=radical&show_owner=True" />
 </a>
@@ -36,7 +34,6 @@ My name is Christine Au-yeung and I'm a 4th year Computer Science student with a
 
 
 ## GitHub Stats
-----
 <a href="https://github.com/ChristineAu-yeung/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineAu-yeung&layout=compact&theme=radical" />
 </a>
